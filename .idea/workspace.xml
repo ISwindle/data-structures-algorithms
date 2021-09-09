@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/techex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/techex/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/algorithms/sort/BubbleSort.java" afterDir="false" />
+    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Updating Project Structure">
+      <change afterPath="$PROJECT_DIR$/src/com/techex/datastructures/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,8 +109,16 @@
       <option name="presentableId" value="Default" />
       <updated>1631056498086</updated>
       <workItem from="1631056500789" duration="4386000" />
-      <workItem from="1631223955479" duration="222000" />
+      <workItem from="1631223955479" duration="600000" />
     </task>
+    <task id="LOCAL-00001" summary="Updating Project Structure">
+      <created>1631224267520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631224267520</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,5 +135,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating Project Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Project Structure" />
   </component>
 </project>
