@@ -3,7 +3,7 @@ package com.techex.algorithms.sort;
 import java.util.Arrays;
 
 // Repeatedly swap adjacent elements
-public class BubbleSort {
+public class Bubble {
 
     // {5,4,2,1,9,6}
     // O(n^2)
