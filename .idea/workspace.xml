@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/techex/sorting/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/techex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/techex/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/algorithms/sort/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +110,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631056498086</updated>
-      <workItem from="1631056500789" duration="3997000" />
+      <workItem from="1631056500789" duration="4386000" />
+      <workItem from="1631223955479" duration="222000" />
     </task>
     <servers />
   </component>
@@ -127,5 +128,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

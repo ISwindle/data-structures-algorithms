@@ -1,4 +1,4 @@
-package com.techex.sorting;
+package com.techex.algorithms.sort;
 
 import java.util.Arrays;
 

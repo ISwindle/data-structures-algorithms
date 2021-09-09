@@ -1,6 +1,6 @@
 package com.techex;
 
-import com.techex.sorting.BubbleSort;
+import com.techex.algorithms.sort.BubbleSort;
 
 public class Main {
 
