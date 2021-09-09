@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Updating Project Structure">
-      <change afterPath="$PROJECT_DIR$/src/com/techex/datastructures/LinkedList.java" afterDir="false" />
+    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Added LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/com/techex/algorithms/search/Linear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631056498086</updated>
       <workItem from="1631056500789" duration="4386000" />
-      <workItem from="1631223955479" duration="600000" />
+      <workItem from="1631223955479" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="Updating Project Structure">
       <created>1631224267520</created>
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631224267520</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added LinkedList">
+      <created>1631224650816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631224650816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating Project Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Project Structure" />
+    <MESSAGE value="Added LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added LinkedList" />
   </component>
 </project>
