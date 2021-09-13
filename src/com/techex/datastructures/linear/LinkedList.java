@@ -1,4 +1,4 @@
-package com.techex.datastructures;
+package com.techex.datastructures.linear;
 
 public class LinkedList {
     Node head; // head of the list
