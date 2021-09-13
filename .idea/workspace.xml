@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Added LinearSearch">
-      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/search/Linear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/sort/Bubble.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/LinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/techex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/techex/algorithms/search/Linear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/algorithms/search/Linear.java" afterDir="false" />
     </list>
     <list id="278e2c88-44df-4a9b-b93e-506ecbe1c0bb" name="Changes by austi" comment="" />
     <list id="9c5f8b09-7959-4265-b5c8-4cdbee9640ba" name="Changes by Dek" comment="" />
@@ -133,7 +125,7 @@
       <workItem from="1631056500789" duration="4386000" />
       <workItem from="1631223955479" duration="967000" />
       <workItem from="1631225589840" duration="38000" />
-      <workItem from="1631233682687" duration="2715000" />
+      <workItem from="1631233682687" duration="3367000" />
     </task>
     <task id="LOCAL-00001" summary="Updating Project Structure">
       <created>1631224267520</created>
@@ -170,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631225615150</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added LinearSearch">
+      <created>1631236410932</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631236410932</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
