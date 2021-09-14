@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Added LinearSearch">
+    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Added BinaryTree">
+      <change afterPath="$PROJECT_DIR$/src/com/techex/algorithms/patterns/NaiveSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/search/Linear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/search/Linear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/techex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/Main.java" afterDir="false" />
     </list>
     <list id="278e2c88-44df-4a9b-b93e-506ecbe1c0bb" name="Changes by austi" comment="" />
     <list id="9c5f8b09-7959-4265-b5c8-4cdbee9640ba" name="Changes by Dek" comment="" />
@@ -126,6 +132,7 @@
       <workItem from="1631223955479" duration="967000" />
       <workItem from="1631225589840" duration="38000" />
       <workItem from="1631233682687" duration="3367000" />
+      <workItem from="1631573067093" duration="4364000" />
     </task>
     <task id="LOCAL-00001" summary="Updating Project Structure">
       <created>1631224267520</created>
@@ -169,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631236410932</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Queue">
+      <created>1631573128702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631573128702</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added BinaryTree">
+      <created>1631573271401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631573271401</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +214,8 @@
     <MESSAGE value="Renamed BubbleSort" />
     <MESSAGE value="Removed Package" />
     <MESSAGE value="Added LinearSearch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added LinearSearch" />
+    <MESSAGE value="Added Queue" />
+    <MESSAGE value="Added BinaryTree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added BinaryTree" />
   </component>
 </project>
