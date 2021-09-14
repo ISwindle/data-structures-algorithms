@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Added BinaryTree">
-      <change afterPath="$PROJECT_DIR$/src/com/techex/algorithms/patterns/NaiveSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techex/datastructures/linear/hashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/search/Linear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/search/Linear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/LinkedList.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/techex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/Main.java" afterDir="false" />
     </list>
     <list id="278e2c88-44df-4a9b-b93e-506ecbe1c0bb" name="Changes by austi" comment="" />
@@ -100,6 +97,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="create.test.in.the.same.root" value="true" />
   </component>
