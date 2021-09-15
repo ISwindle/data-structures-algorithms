@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class Main {
 
-    public static void main(String[] args) throws {
+    public static void main(String[] args) {
 
         DisplayImage displayImage = new DisplayImage("src/com/techex/resources/darth-vader-2.jpg");
         JFrame frame = new JFrame();
@@ -18,5 +18,6 @@ public class Main {
         String audioFilePath = "src/com/techex/resources/ImperialMarch60.wav";
         AudioPlayer player = new AudioPlayer();
         player.play(audioFilePath);
+
     }
 }
