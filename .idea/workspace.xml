@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Added BinaryTree">
-      <change afterPath="$PROJECT_DIR$/src/com/techex/algorithms/patterns/NaiveSearch.java" afterDir="false" />
+    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Added Image Display and Audio Player">
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/patterns/NaiveSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/linear/LinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/linear/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/linear/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/oop/Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/projects/audio/AudioPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/projects/images/DisplayImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/resources/ImperialMarch60.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/resources/darth-vader-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techex/oop/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techex/projects/audio/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techex/projects/images/DisplayImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techex/resources/ImperialMarch60.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techex/resources/darth-vader-2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/search/Linear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/algorithms/search/Linear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/datastructures/LinkedList.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/techex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/techex/datastructures/linear/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/datastructures/linear/LinkedList.java" afterDir="false" />
     </list>
     <list id="278e2c88-44df-4a9b-b93e-506ecbe1c0bb" name="Changes by austi" comment="" />
     <list id="9c5f8b09-7959-4265-b5c8-4cdbee9640ba" name="Changes by Dek" comment="" />
@@ -103,6 +115,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="create.test.in.the.same.root" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/techex/resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.techex.Main" />
@@ -132,7 +149,8 @@
       <workItem from="1631223955479" duration="967000" />
       <workItem from="1631225589840" duration="38000" />
       <workItem from="1631233682687" duration="3367000" />
-      <workItem from="1631573067093" duration="4364000" />
+      <workItem from="1631573067093" duration="5207000" />
+      <workItem from="1631584750946" duration="7240000" />
     </task>
     <task id="LOCAL-00001" summary="Updating Project Structure">
       <created>1631224267520</created>
@@ -190,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631573271401</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added NaiveSearch">
+      <created>1631579176791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631579176791</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +241,8 @@
     <MESSAGE value="Added LinearSearch" />
     <MESSAGE value="Added Queue" />
     <MESSAGE value="Added BinaryTree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added BinaryTree" />
+    <MESSAGE value="Added NaiveSearch" />
+    <MESSAGE value="Added Image Display and Audio Player" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Image Display and Audio Player" />
   </component>
 </project>
