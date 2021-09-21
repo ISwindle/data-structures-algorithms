@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Refactored exception handling">
-      <change afterPath="$PROJECT_DIR$/src/com/techex/resources/star-wars-darth-vader.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/techex/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/techex/resources/darth-vader-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/techex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techex/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/techex/resources/darth-vader-2.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="efcb07db-1101-4300-af22-0d6c725f7469" name="Changes" comment="Changed Darth Vader Image and Location" />
     <list id="278e2c88-44df-4a9b-b93e-506ecbe1c0bb" name="Changes by austi" comment="" />
     <list id="9c5f8b09-7959-4265-b5c8-4cdbee9640ba" name="Changes by Dek" comment="" />
     <list id="c4312747-e71a-4894-a655-b1384af8c93f" name="Changes by fevje" comment="" />
@@ -137,7 +130,7 @@
       <workItem from="1631225589840" duration="38000" />
       <workItem from="1631233682687" duration="3367000" />
       <workItem from="1631573067093" duration="5207000" />
-      <workItem from="1631584750946" duration="7828000" />
+      <workItem from="1631584750946" duration="8060000" />
     </task>
     <task id="LOCAL-00001" summary="Updating Project Structure">
       <created>1631224267520</created>
@@ -216,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631665125102</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Changed Darth Vader Image and Location">
+      <created>1631665443784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1631665443784</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +245,7 @@
     <MESSAGE value="Added NaiveSearch" />
     <MESSAGE value="Added Image Display and Audio Player" />
     <MESSAGE value="Refactored exception handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored exception handling" />
+    <MESSAGE value="Changed Darth Vader Image and Location" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Darth Vader Image and Location" />
   </component>
 </project>
